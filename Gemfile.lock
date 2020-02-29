@@ -12,7 +12,7 @@ GEM
     launchy (2.4.3)
       addressable (~> 2.3)
     public_suffix (4.0.1)
-    rake (10.5.0)
+    rake (13.0.1)
 
 PLATFORMS
   ruby
@@ -20,7 +20,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0)
   launchy (~> 2.4, >= 2.4.3)
-  rake (~> 10.0)
+  rake (~> 13.0)
   ruby_tunes!
 
 BUNDLED WITH
